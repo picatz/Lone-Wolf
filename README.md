@@ -1,4 +1,4 @@
-# LoneWolf
+# Lone Wolf
 > Background worker process API
 
 ## Installation
